@@ -1,6 +1,8 @@
 # learning_cluster
 Creation of a teaching cluster as part of a didactic project. 
 
+Work carried out by Etienne Ménager (ENS Rennes) and Lancelot Barthe (ENS Rennes), under the direction of Martin Quinson (ENS
+Rennes - INRIA). 
 
 More and more, solving various problems (meteorology, simulation, etc.) requires large computational resources.
 In order to propose solutions to these problems, computer engineers must be trained in high-performance computer 
